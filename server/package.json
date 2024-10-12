@@ -1,0 +1,20 @@
+{
+  "name": "aws-node-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sst": "sst"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@codegenie/serverless-express": "^4.15.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "sst": "^2.44.0"
+  }
+}
